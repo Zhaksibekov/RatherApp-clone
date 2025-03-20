@@ -1,0 +1,55 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 700px;  
+    background-color: rgb(235, 241, 241);
+    background-image: url(https://avatars.mds.yandex.net/i?id=ed9f558429fd6b95c4a378c181e6b97a06f5202a-5499277-images-thumbs&n=13);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.hhh{
+font-size: 18px;
+
+
+}
+.hh8{
+   border-radius: 15px;
+color: aliceblue;
+background-color: blue;
+border: none;
+width: 120px;
+height: 30px;
+}
+.hh2{
+
+    text-align: center;
+    transform: scale(1.05);
+    border: 2px solid rgb(236, 234, 232, 0.616);
+width: 300px;
+    height: 280px;
+    background-color: rgba(252, 253, 250, 0.616);
+  border-radius: 15px;
+font-size: 20px;
+
+}
+.bbb{
+text-align: center;
+
+
+}
+ul{
+    list-style: none;
+    padding: 0%;
+}
+.ttt{
+    background-color: blue;
+   width: 90px;
+   height: 34px;
+    color: rgb(242, 242, 248);
+    border: none;
+    border-radius: 10px;
+}

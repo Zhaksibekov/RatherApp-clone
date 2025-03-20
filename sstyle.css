@@ -1,0 +1,21 @@
+.conteiner{
+background-color: blue;
+width: 100%;
+height: 300px;
+
+}
+.box{
+background-image: url("https://avatars.mds.yandex.net/i?id=10d5f165ecfc02b5d282ea6c7e2821a3ee94ff03-5234591-images-thumbs&n=13");
+width: 100%;
+height: 300px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
+.blog{
+    width: 100%;
+    height: 300px;
+background: linear-gradient(  #434b1b,#425e17);
+
+}

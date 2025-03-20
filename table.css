@@ -1,0 +1,113 @@
+.form1{
+display: flex;
+width: 100%;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+form{
+display: flex;
+flex-direction: column;
+gap: 10px;
+
+}
+input{
+width: 200px;
+height: 20px;
+border-radius: 10px;
+padding: 2px 5px;
+border: 2px solid blue;
+}
+button{
+border-radius: 10px;
+background-color: blue;
+color:white ;
+border: none;
+height: 25px;
+
+
+}
+
+
+
+    background-color: brown;
+div{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 200px;
+
+
+
+
+}
+button:hover 
+button:active{
+background-color: rgb(5,5,5);
+
+}
+button:focus{
+
+    outline: 5px solid yellow;
+}
+.for1{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+    }
+    input{
+        width: 200px;
+        height: 20px;
+        border-radius: 10px;
+        padding: 2px 5px;
+        border: 2px solid blue;
+        }
+        button{
+            border-radius: 10px;
+            background-color: blue;
+            color:white ;
+            border: none;
+            height: 25px;
+            
+            
+            }
+            div{
+                display: flex;
+                width: 100%;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            
+            
+            
+            
+            }
+            button:hover{
+            
+            
+                background-color: brown;
+            }
+            button:active{
+            background-color: rgb(5,5,5);
+            
+            }
+            button:focus{
+            
+                outline: 5px solid yellow;
+            }
+    

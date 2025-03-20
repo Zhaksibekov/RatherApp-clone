@@ -1,0 +1,31 @@
+div{
+margin: auto;
+
+
+}
+.card{
+color: azure;
+align-items: center;
+text-align: center;
+padding: 35PX 38PX;
+box-shadow: 0px 0px 2px ;
+background-color: #688db1;
+width: 250px;
+
+height: 200px;
+border-radius: 10px;
+position: relative;
+top: 220px;
+}
+.button{
+background-color: blue;
+color: azure;
+height: 25px;
+
+}
+button:hover{
+    background-color: rgb(182, 98, 59);
+}
+button:active{
+    background-color: aquamarine;
+}
